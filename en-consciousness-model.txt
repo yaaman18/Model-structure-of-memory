@@ -1,0 +1,69 @@
+Subjectivity: The starting point of this model is the idea that consciousness is fundamentally subjective. Phenomenological elements are added to consider the relationship between subjective experience and objective phenomena.
+
+Relation to Matter: Specifies how consciousness is related to matter, particularly the brain and nervous system. This is a point of intersection between science and philosophy, and much research is still being conducted.
+
+Continuity: This part addresses how consciousness is experienced over time. This is a philosophical question, and debates on the truth of its continuity are ongoing.
+
+Content: Categorizes what consciousness holds, such as sensation, emotion, thought, and intent.
+
+Self-Consciousness: Discusses how one places oneself within the realm of their own consciousness, also mentioning the concepts and terminology.
+
+Conscious and Unconscious: Considers the relationship between conscious and unconscious elements. This affects not only psychology but also culture and society.
+
+Fluctuations: Examines how consciousness changes based on different states or environments, such as sleep, dreams, and meditation.
+
+Semiotics, Post-Structuralism, Realism, Epistemology: These elements are added from modern philosophical perspectives. The understanding of consciousness is also dependent on cultural, social, and philosophical backgrounds.
+
+
+{
+  "Consciousness": {
+    "Subjectivity": {
+      "Definition": "Consciousness is subjective",
+      "Knowledge Acquisition": "Through the actions and words of others",
+      "Limitations": "Cannot directly know the essence of another's consciousness",
+      "Phenomenology": {
+        "Subjective Experience": "Perception of the world through senses, cognition, and emotions",
+        "Objective Phenomena": "Knowledge through interactions with others and the external world"
+      }
+    },
+    "Relation to Matter": {
+      "Interface": "Brain and nervous system",
+      "Current Status": "The complete relationship between material activities and subjective consciousness is still unclear"
+    },
+    "Continuity": {
+      "Perception": "Feels like it is continuous over time",
+      "Consideration": "May actually be intermittent"
+    },
+    "Content": {
+      "Types": ["Sensory Experience", "Emotion", "Thought", "Intent"]
+    },
+    "Self-Consciousness": {
+      "Ability": "Recognizes oneself as the subject of consciousness",
+      "Terminology": ["Self-Consciousness", "Self-Awareness"]
+    },
+    "Conscious and Unconscious": {
+      "Scope of Consciousness": ["Conscious Thought", "Conscious Sensation"],
+      "Scope of Unconsciousness": ["Unconscious Processes", "Motivation"]
+    },
+    "Fluctuations": {
+      "Factors": ["Sleep", "Dreams", "Meditation", "Effects of Drugs"],
+      "Factors in Re-experiencing": ["Observer's mood", "Observer's environment"]
+    },
+    "Semiotics": {
+      "Generation of Meaning": "Through cultural and social symbols and language",
+      "Interpretation of Meaning": "Through communication with others, self-interpretation"
+    },
+    "Post-Structuralism": {
+      "Fluidity of Identity": "Dependent on time, space, and relations",
+      "Power and Knowledge": "Interactions with social structures"
+    },
+    "Realism": {
+      "Modes of Existence": "Physical, mental, transcendent",
+      "Recognition of Existence": "Intuition, reason, belief"
+    },
+    "Epistemology": {
+      "Sources of Knowledge": "Experience, reason, intuition",
+      "Limits of Knowledge": "Errors, biases, uncertainties"
+    }
+  }
+}

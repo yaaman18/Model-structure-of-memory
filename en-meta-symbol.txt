@@ -1,0 +1,84 @@
+{
+  "Consciousness": {
+    "Subjectivity": {
+      "Definition": "Consciousness is a subjective phenomenon",
+      "Knowledge Acquisition": "Through others' actions and words",
+      "Limitation": "Cannot directly know the essence of another's consciousness",
+      "Phenomenology": {
+        "Subjective Experience": "Perception of the world through senses, cognition, emotions, etc.",
+        "Objective Phenomena": "Knowledge through interaction with others and the external world"
+      }
+    },
+    "Relation to Matter": {
+      "Interfacing Area": "Brain and nervous system",
+      "Current State": "The complete relationship between material activities and subjective consciousness is unknown"
+    },
+    "Continuity": {
+      "Sensation": "Feels temporally continuous",
+      "Speculation": "Possibility of being intermittent"
+    },
+    "Content": {
+      "Types": ["Sensory experiences", "Emotions", "Thoughts", "Intentions"]
+    },
+    "Self-Awareness": {
+      "Ability": "Recognize oneself as the subject of consciousness",
+      "Terminology": ["Self-awareness", "Self-recognition"]
+    },
+    "Conscious and Unconscious": {
+      "Range of Consciousness": ["Conscious thoughts", "Conscious sensations"],
+      "Range of Unconsciousness": ["Unconscious processes", "Motivations"]
+    },
+    "Variability": {
+      "Factors of Change": ["Sleep", "Dreams", "Meditation", "Effect of drugs"],
+      "Factors of Change upon Re-experiencing": ["Observer's mood", "Observer's environment"]
+    },
+    "Semiotics": {
+      "Meaning Creation": "Through cultural and social symbols and language",
+      "Meaning Interpretation": "Communication with others, self-interpretation"
+    },
+    "Poststructuralism": {
+      "Fluidity of Identity": "Depends on time, space, and relationships",
+      "Power and Knowledge": "Interaction with social structures"
+    },
+    "Realism": {
+      "Modes of Existence": "Physical, mental, transcendent",
+      "Recognition of Existence": "Intuition, reason, belief"
+    },
+    "Epistemology": {
+      "Sources of Knowledge": "Experience, reason, intuition",
+      "Limits of Knowledge": "Errors, biases, uncertainties"
+    }
+  }
+}
+
+
+Translated Meta Symbols
+Meta-symbolization is a method of representing normal symbols or concepts at a higher level of abstraction. In this context, "meta-symbolizing the elements of the consciousness model" means representing each element in a more generalized, abstracted, or explicit form in relation to other elements.
+
+Here are the meta-symbolized elements:
+
+Subjectivity (Σ₁)
+Definition (δ₁)
+Knowledge Acquisition (κ₁)
+Limitation (λ₁)
+Relation to Matter (Σ₂)
+Interfacing Area (μ₂)
+Current State (ν₂)
+Continuity (Σ₃)
+Sensation (σ₃)
+Speculation (κ₃)
+Content (Σ₄)
+Types (τ₄)
+Self-Awareness (Σ₅)
+Ability (α₅)
+Terminology (γ₅)
+Conscious and Unconscious (Σ₆)
+Range of Consciousness (ρ₆)
+Range of Unconsciousness (ψ₆)
+Variability (Σ₇)
+Factors of Change (φ₇)
+Factors of Change upon Re-experiencing (χ₇)
+By using these meta-symbols, it becomes easier to generalize their relationships. For example, you can use these meta-symbols to express general relationships:
+
+Σ₁ ∼ Σ₂ (Subjectivity is related to matter in some way)
+Σ₃ → Σ₄ (Continuity has an effect on content)

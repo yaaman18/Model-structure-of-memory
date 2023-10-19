@@ -1,0 +1,202 @@
+This is a fairly comprehensive JSON object that represents various aspects of human memory,
+including the types of information that can be stored, methods for transforming that information,
+and the specifics of short-term and long-term memory storage.
+It also considers emotional factors in memory storage and retrieval.
+This could serve as a foundation for creating a simulation or model of human memory in code,
+or as a detailed specification for a psychological study, among other uses.
+
+
+{
+  "Memory": {
+    "Encoding": {
+      "Type of Information": {
+        "Sensory Information": {
+          "Visual": ["Color", "Shape", "Motion"],
+          "Auditory": ["Pitch", "Rhythm", "Volume"],
+          "Tactile": ["Temperature", "Texture", "Pain"],
+          "Olfactory": ["Scent", "Smell"],
+          "Gustatory": ["Sweetness", "Saltiness", "Bitterness"]
+        },
+        "Cognitive Information": {
+          "Knowledge": ["Learned Facts", "Theories", "Techniques"],
+          "Thought": ["Inference", "Judgment", "Imagination"],
+          "Concept": ["Classification", "Comparison", "Evaluation"]
+        },
+        "Emotional Information": {
+          "Type of Emotion": ["Joy", "Sadness", "Anger", "Surprise", "Excitement", "Disgust", "Relief"],
+          "Cause of Emotion": ["Events", "People", "Places"],
+          "Emotional Response": ["Behavior", "Physical Response", "Facial Expression"]
+        },
+        "Social Information": {
+          "Interpersonal Relations": ["Friendship", "Family Bond", "Love"],
+          "Social Rules": ["Manners", "Laws", "Customs"],
+          "Culture": ["Values", "Beliefs", "Traditions"]
+        },
+        "Intentional Information": {
+          "Intent": ["Goals", "Plans", "Wishes"],
+          "Motivation": ["Type of Motivation", "Cause of Motivation", "Reward"]
+        }
+      },
+      "Transformation Methods": ["Attention", "Deep Processing", "Association"]
+    },
+    "Type of Transformation": {
+      "Basic Transformation": {
+        "Filtering": ["Noise Removal", "Selection of Relevant Information"],
+        "Sorting": ["Temporal Sorting", "Importance Sorting", "Category-based"],
+        "Completion": ["Guessing Missing Information", "Detailing with Related Data"]
+      },
+      "Cognitive Transformation": {
+        "Generalization": ["Summary", "Abstraction"],
+        "Specialization": ["Providing Specific Examples", "Detailing"],
+        "Association": ["Comparison", "Analogy", "Metaphor"]
+      },
+      "Emotional Transformation": {
+        "Amplification": ["Emphasis", "Overestimation"],
+        "Attenuation": ["Softening", "Underestimation"],
+        "Redirection": ["Diversion", "Induction of Alternate Emotion"]
+      },
+      "Social Transformation": {
+        "Sharing": ["Communication", "Public Disclosure"],
+        "Concealment": ["Privacy Protection", "Information Restriction"],
+        "Authentication": ["Verifying Trustworthiness", "Validating Credibility"]
+      },
+      "Intentional Transformation": {
+        "Prioritization": ["Sorting by Importance", "Resource Allocation"],
+        "Decision": ["Evaluation of Options", "Final Decision"],
+        "Actualization": ["Executing Plan", "Coordination"]
+      }
+    },
+    "Storage": {
+      "Short-term Memory": {
+        "Capacity": "Finite",
+        "Type": {
+          "Sensory Memory": ["Visual", "Auditory", "Olfactory", "Gustatory", "Tactile"],
+          "Working Memory": ["Cognitive Task", "Temporary Information Holding"],
+          "Event Memory": ["Specific Moments or Events"]
+        }
+      },
+      "Trigger": ["Urgency", "Environment", "Emotional State"],
+      "Long-term Memory": {
+        "Capacity": "Almost Infinite",
+        "Type": {
+          "Declarative Memory": {
+            "Semantic Memory": ["General Knowledge", "Facts"],
+            "Episodic Memory": ["Personal Events", "Experiences"]
+          },
+          "Procedural Memory": ["Skills", "Habits", "Actions"],
+          "Conditioned Response": ["Emotional Response", "Conditional Stimuli"],
+          "Implicit Memory": ["Sensorimotor Skills", "Language Acquisition"]
+        },
+        "Trigger": ["Words", "Places", "People", "Music", "Scent"]
+      },
+      "Emotional Memory": {
+        "Joy": {
+          "Emotional": ["Specific Places", "Music", "People"],
+          "Rational": ["Sense of Accomplishment", "Learning", "Goal Achievement"]
+        },
+        "Sadness": {
+          "Emotional": ["Lost Things", "Past Events"],
+          "Rational": ["Failure", "Unachieved Goals", "Risks"]
+        },
+        "Fear": {
+          "Emotional": ["Specific Situations", "Unknown Things"],
+          "Rational": ["Danger", "Possibility of Failure", "Uncertainty"]
+        },
+        "Anger": {
+          "Emotional": ["Insults", "Unfairness"],
+          "Rational": ["Violation of Rules", "Injustice"]
+        },
+        "Surprise": {
+          "Emotional": ["Unanticipated Events"],
+          "Rational": ["Unexpected Achievements", "Good News"]
+        }
+      }
+    },
+    "Retrieval": {
+      "Trigger": ["Visual Cues", "Auditory Cues", "Tactile Cues"],
+      "Retrieval Mode": ["Recall", "Recognition"],
+      "Strategy": ["Rehearsal", "Chunking", "Mnemonic"]
+    }
+  }
+}
+
+"Social Memory": {
+    "Public Knowledge": ["Cultural Knowledge", "Social Norms"],
+    "Interpersonal Relationships": ["Characteristics of People", "Faces", "Names"],
+    "Social Context": ["Group Dynamics", "Social Roles"],
+    "Triggers": ["Social Context", "Topics", "Dynamics within Groups"]
+},
+"Recall": {
+    "Information Retrieval": ["Spontaneous", "Cue-based", "Recognition-based"]
+},
+"Cognition": {
+    "Identification": {
+        "Previous Experience": ["Memory-based", "Cue-based"],
+        "New Information": ["Learning-based", "Inference-based"]
+    },
+    "Phenomenological Experience": ["Subjectivity", "Stream of Consciousness", "Temporality"],
+    "Ontological Issues": ["Existence", "Sources of Knowledge", "Nature of Things"],
+    "Pragmatics": ["Context", "Dialogue", "Language Games"],
+    "Epistemology": ["Intuition", "Induction", "Deduction", "Doubt", "Justification of Beliefs"],
+    "Moral Cognition": ["Value", "Ethics", "Duty", "Virtue"],
+    "Social & Cultural Factors": ["Cultural Background", "Social Role", "Language"],
+    "Non-cognitive Factors": ["Intuition", "Emotions", "Desires"]
+},
+"Forgetting": {
+    "Factors": {
+        "Interference": ["External Interference", "Internal Interference"],
+        "Passage of Time": ["Short-term", "Long-term"],
+        "Lack of Information": ["Partial Forgetting", "Total Forgetting"]
+    },
+    "Emotional Effects": {
+        "Trauma": ["Repression", "Avoidance", "Re-experiencing"],
+        "Joy": ["Repeatedly Recalling", "Positive Reconfirmation", "Emotional Attachment"]
+    },
+    "Individual Differences": ["Memory Capacity", "Attention", "Depth of Meaning"],
+    "Physiological Factors": ["Fatigue", "Stress", "Hormonal Effects"]
+},
+"Update": {
+    "Information Revision": {
+        "New Experience": ["Direct Experience", "Information from Others"],
+        "New Knowledge": ["Learning", "Independent Research", "Research by Others"]
+    },
+    "Emotional Effects": {
+        "Positive Experience": ["Confirmation Bias", "Positive Reinterpretation"],
+        "Negative Experience": ["Cognitive Dissonance", "Negative Reinterpretation"]
+    },
+    "Cognitive Processes": {
+        "Inference": ["Logical", "Illogical"],
+        "Hypothesis Testing": ["Scientific Method", "Trial and Error"]
+    },
+    "Social & Cultural Effects": {
+        "Community": ["Family", "Friends", "Experts"],
+        "Culture": ["Belief Systems", "Values"]
+    },
+    "Temporal Factors": {
+        "Short-term": ["Immediate Feedback", "Short-term Outcomes"],
+        "Long-term": ["Continuous Learning", "Long-term Effects"]
+    }
+},
+"Relation with Emotions": {
+    "Effects": {
+        "Memory Enhancement": ["Positive Experience", "Negative Experience"],
+        "Memory Change": ["Reinterpretation", "Cognitive Dissonance"],
+        "Memory Selectivity": ["Confirmation Bias", "Selective Exposure"]
+    },
+    "Emotional Effects at Re-experience": ["Joy", "Sadness", "Excitement", "Relaxation"],
+    "Emotional Effects based on Personal Experience": {
+        "Subjective Value": ["Emotions Towards Specific Places or Things", "Relations with Specific People"],
+        "Personal Triggers": ["Emotional Starting Points", "Individual Circumstances or Experiences"],
+        "Preconceptions": ["Positive or Negative Emotions Acquired from Previous Experiences"]
+    },
+    "Emotional Chain Reaction": ["Emotional Spiral", "Emotional Contagion"]
+},
+"Observer's Complementary Function": {
+    "Arguments": {
+        "Related Experiences": ["Similar Situations", "Experiences at the Same Place"],
+        "Reflection of Emotions": ["Joy", "Sadness", "Fear", "Excitement"],
+        "Knowledge and Cultural Background": ["Observer's Educational Background", "Cultural Background", "Life Experiences"]
+    },
+    "Processing": "In this part, the observer's information and recorded data are combined to generate interpretations and experiences",
+    "Return Value": "Interpretations and experiences gained by the observer"
+}
